@@ -413,7 +413,7 @@ ul#nav li.current a { color: #F06000; }
 #portfolio {
    background: #ebeeee;
    padding-top: 90px;
-   padding-bottom: 30px;
+   padding-bottom: 60px;
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
@@ -425,7 +425,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 30px; }
+#portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
@@ -448,7 +448,7 @@ ul#nav li.current a { color: #F06000; }
    left: 0;
    top: 0;
    width: 100%;
-   height: auto;
+   height: 100%;
 
 	opacity: 0;
 	-moz-opacity: 0;
